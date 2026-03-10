@@ -1,4 +1,3 @@
-# Hung-Yi, Wu.github.io
 <!DOCTYPE html>
 <html>
 <head>
